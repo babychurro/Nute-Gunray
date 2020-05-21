@@ -17,7 +17,7 @@
       request.setRequestHeader('Content-type', 'application/json');
 
       var params = {
-        username: "My Webhook Name",
+        username: "Nute Gunray",
         avatar_url: "",
         content: "Nute Gunray here to remind you that I love you"
       }
